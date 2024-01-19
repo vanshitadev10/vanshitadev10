@@ -1,6 +1,6 @@
 ### Hi there! I'm Vanshita Dev 👋
 
-- 🔭 I’m currently working on Next.js, DS Algo, Python
+- 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning Next.js & Python
 - 👯 I’m looking to collaborate on FrontEnd Projects
 - 🤔 I’m looking for help with Machine Learning
